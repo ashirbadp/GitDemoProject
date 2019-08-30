@@ -10,6 +10,7 @@ namespace GitDemoProject.Controllers
     {
         public ActionResult Index()
         {
+            //Initial commit
             ViewBag.Title = "Home Page";
 
             return View();
