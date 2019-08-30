@@ -11,6 +11,7 @@ namespace GitDemoProject.Controllers
         public ActionResult Index()
         {
             //Initial commit
+            //Fetch testing
             ViewBag.Title = "Home Page";
 
             return View();
